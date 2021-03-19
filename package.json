@@ -1,0 +1,24 @@
+{
+  "name": "randompass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {
+    "console-read-write": "^0.1.1",
+    "crypto-random-string": "^3.3.1",
+    "mclainsmt-cli-prompt": "^1.0.3",
+    "node": "^15.10.0",
+    "readline-promise": "^1.0.5",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

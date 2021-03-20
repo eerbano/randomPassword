@@ -2,7 +2,7 @@
 
 Configurable random password generator made in Typescript.
 
-# Cababilities
+# Capabilities
 
 1. It allows to select a mix between numbers, uppercase letters, lowercase letters, and symbols.
 2. You can define how many passwords to generate.
